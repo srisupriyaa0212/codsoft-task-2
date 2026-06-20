@@ -6,4 +6,5 @@ This project is a professional email template created using HTML. It is designed
 Features
 Responsive email layout
 Professional design
-Clean and structured content 
+Clean and structured content
+Easy to customize
